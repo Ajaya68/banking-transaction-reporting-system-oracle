@@ -1,0 +1,3 @@
+CUSTOMER_NAME    ACCOUNT_NUMBER   TYPE       AMOUNT
+---------------------------------------------------
+Ajaya Mahanty    SB10001          DEPOSIT    10000

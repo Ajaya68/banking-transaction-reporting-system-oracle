@@ -1,0 +1,2 @@
+CREATE SEQUENCE transaction_seq START WITH 1;
+CREATE SEQUENCE audit_seq START WITH 1;
